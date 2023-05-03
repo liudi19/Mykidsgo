@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>我的主页</title>
+</head>
+<body>
+	<header>
+		<h1>欢迎来到我的主页！</h1>
+		<nav>
+			<a href="#">首页</a>
+			<a href="#">关于我</a>
+			<a href="#">联系我</a>
+		</nav>
+	</header>
+	<main>
+		<img src="my-photo.jpg" alt="我的照片">
+		<p>这是我的照片，我很喜欢它。</p>
+		<p>我是一名开发者，喜欢写代码，学习新技术。</p>
+	</main>
+	<footer>
+		<p>版权所有 &copy; 2023</p>
+	</footer>
+</body>
+</html>
